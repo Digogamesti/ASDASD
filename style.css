@@ -1,0 +1,15 @@
+body
+{
+	text-align: center;
+	background: radial-gradient(blue, yellow, green, green);
+}
+span
+{
+	font-size: 18px;
+	color: red;
+}
+canvas
+{
+	background: radial-gradient(blue, yellow,yellow);
+	border-radius: 300px;
+}
